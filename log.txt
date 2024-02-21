@@ -30,3 +30,16 @@ WHERE [productId] = @p4;
 2024-02-21 04:56:36.720 +00:00 [INF] Executed action Tekton.Products.Api.Controllers.ProductsController.UpdateProduct (Tekton.Products.APILayer) in 3394.2664ms
 2024-02-21 04:56:36.723 +00:00 [INF] Executed endpoint 'Tekton.Products.Api.Controllers.ProductsController.UpdateProduct (Tekton.Products.APILayer)'
 2024-02-21 04:56:36.757 +00:00 [INF] Request finished HTTP/2 PUT https://localhost:7201/api/products/3 - 204 null null 3505.1973ms
+2024-02-21 05:42:26.610 +00:00 [INF] Now listening on: https://localhost:7201
+2024-02-21 05:42:26.632 +00:00 [INF] Now listening on: http://localhost:5027
+2024-02-21 05:42:26.741 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-21 05:42:26.745 +00:00 [INF] Hosting environment: Development
+2024-02-21 05:42:26.748 +00:00 [INF] Content root path: C:\ProyectosDesarrollo\Tests\TektonSolution\Tekton.Products
+2024-02-21 05:42:28.758 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7201/swagger/index.html - null null
+2024-02-21 05:42:30.379 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7201/swagger/index.html - 200 null text/html;charset=utf-8 1613.9858ms
+2024-02-21 05:42:30.442 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - null null
+2024-02-21 05:42:30.443 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7201/_vs/browserLink - null null
+2024-02-21 05:42:30.480 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - 200 13784 application/javascript; charset=utf-8 37.647ms
+2024-02-21 05:42:30.633 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7201/_vs/browserLink - 200 null text/javascript; charset=UTF-8 190.2303ms
+2024-02-21 05:42:30.745 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - null null
+2024-02-21 05:42:31.102 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 356.8338ms
