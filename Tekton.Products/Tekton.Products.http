@@ -1,0 +1,6 @@
+@Tekton.Products_HostAddress = http://localhost:5027
+
+GET {{Tekton.Products_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

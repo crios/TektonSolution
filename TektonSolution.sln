@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekton.Products.APILayer", "Tekton.Products\Tekton.Products.APILayer.csproj", "{368C660F-C1A7-4C60-A880-18F2C45699BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekton.Products.BusinessLayer", "Tekton.Products.Business\Tekton.Products.BusinessLayer.csproj", "{6DEE7783-E606-407B-BAB5-D0EDF9E82388}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekton.Products.RepositoryLayer", "Tekton.Products.Repository\Tekton.Products.RepositoryLayer.csproj", "{F519F6CD-AD7C-48ED-993A-114C95596077}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekton.Products.Entity", "Tekton.Products.Entity\Tekton.Products.Entity.csproj", "{8A08FBA8-E0D2-4E7C-97CD-C792C365CDC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekton.Products.Utilities", "Utilities\Tekton.Products.Utilities.csproj", "{23F59475-4FC2-4C8A-839E-28AFAC9B2FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368C660F-C1A7-4C60-A880-18F2C45699BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368C660F-C1A7-4C60-A880-18F2C45699BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368C660F-C1A7-4C60-A880-18F2C45699BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368C660F-C1A7-4C60-A880-18F2C45699BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DEE7783-E606-407B-BAB5-D0EDF9E82388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEE7783-E606-407B-BAB5-D0EDF9E82388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEE7783-E606-407B-BAB5-D0EDF9E82388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEE7783-E606-407B-BAB5-D0EDF9E82388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F519F6CD-AD7C-48ED-993A-114C95596077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F519F6CD-AD7C-48ED-993A-114C95596077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F519F6CD-AD7C-48ED-993A-114C95596077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F519F6CD-AD7C-48ED-993A-114C95596077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A08FBA8-E0D2-4E7C-97CD-C792C365CDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A08FBA8-E0D2-4E7C-97CD-C792C365CDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A08FBA8-E0D2-4E7C-97CD-C792C365CDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A08FBA8-E0D2-4E7C-97CD-C792C365CDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F59475-4FC2-4C8A-839E-28AFAC9B2FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F59475-4FC2-4C8A-839E-28AFAC9B2FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F59475-4FC2-4C8A-839E-28AFAC9B2FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F59475-4FC2-4C8A-839E-28AFAC9B2FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F59D554-8AB1-4731-8393-4DF0F1320B64}
+	EndGlobalSection
+EndGlobal
